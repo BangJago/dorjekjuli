@@ -1,2 +1,1 @@
-# gopudramz
-GOPUD 
+dahar cing wareg gblg
