@@ -2,14 +2,14 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo "\e[96m_________________   WARNING !!!!!!!!  _________________ \n";
-echo "\e[96m          INI SCRIB GOJEK INI GRATIS BRO                \n";
-echo "\e[96m           JADI GUNAKANLAH DENGAN BIJAK                 \n";
+echo "\e[96m____________________   GRUP WA  _______________________ \n";
+echo "\e[96m             INI SCRIpt GOJEK INI GRATIS BRO            \n";
+echo "\e[96m                  CUAN FOR MY LIFE GRUP                 \n";
 echo "\e[96m ********\e[95m".date('[d-m-Y] [H:i:s]')."\e[96m********\n";
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo "\e[93m            \e[96m BERDOA DULU SEBELUM CLAIM \e[93m \n";
-echo "\e[96m  ==============================================\n";
+echo "\e[93m           \e[96m INI LINK GROUP WA NYA \e[93m \n";
+echo "\e[96m  https://chat.whatsapp.com/IaZKFF2QWVk3iv6TqQQqaE \n";
 echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo "\e[95m Sudah Punya User Id (Y/N ?: ";	
 $pilihy = trim(fgets(STDIN));
@@ -36,7 +36,7 @@ else
 		echo "\e[91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 	        echo "\e[96m[🚫]           \e[91mKLIK ENTER SAJA BOS KU            \e[96m [🚫]\n";
 		echo "\e[96m[🚫]    \e[91mYOK BACA DOA DULU BOSKU AGAR BISA        \e[96m [🚫]\n";
-	        echo "\e[96m[🚫]  \e[91mSELAMAT KELILING INDONESIA BOSKU WKWK.     \e[96m [🚫]\n";
+	        echo "\e[96m[🚫]          \e[91mCUAN FOR MY LIFE GROUP WA     \e[96m [🚫]\n";
 		echo "\e[91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 goto login;
 }
